@@ -69,52 +69,82 @@ keeping track students.
 the teacher has given personal information like name, address, gender,
 age, phone number, subject, class, email, password to create an
 account. Then click the “Register” button to sign up.
+
 ![image](https://github.com/Trungtruc410/Student-Attendance-Management/assets/85205181/28e84ae1-ea1c-4da8-bf2e-fc02512d00ee)
 2. Sign Up Success 
 - When the user fills in all the information that is valid, then the register will succeed and jump back to the Login Page.
+  
 ![image](https://github.com/Trungtruc410/Student-Attendance-Management/assets/85205181/09e82157-dca2-4e23-ae2a-d8e54d9cc886)
+
 3. Login Function 
--	User input email and the password, then press Login Button to process. 
+-	User input email and the password, then press Login Button to process.
+  
 ![image](https://github.com/Trungtruc410/Student-Attendance-Management/assets/85205181/2d0d03fc-e1e2-438a-99af-4e08d50e257c)
--	Login Success: An announcement will be displayed with a message “Successfully Login” then the Homepage will be displayed. 
+
+-	Login Success: An announcement will be displayed with a message “Successfully Login” then the Homepage will be displayed.
+  
 ![image](https://github.com/Trungtruc410/Student-Attendance-Management/assets/85205181/e9c78fee-6b5e-41c5-8fbc-4ba028710a8a)
+
 ![image](https://github.com/Trungtruc410/Student-Attendance-Management/assets/85205181/a0bc69d6-1414-4164-b53a-709372ced90c)
+
 4. Checking attendance: 
 a. Show all list 
-- After users log in to the system, they will be able to watch all the list after clicking the “Show All List” button. 
+- After users log in to the system, they will be able to watch all the list after clicking the “Show All List” button.
+  
 ![image](https://github.com/Trungtruc410/Student-Attendance-Management/assets/85205181/7a0510b6-bcba-4882-bdc4-dab6fbf1536e)
+
 ![image](https://github.com/Trungtruc410/Student-Attendance-Management/assets/85205181/4422ab20-6841-42a4-bde5-8f2f667e1b25)
+
 b. Search and Filter List By Categories 
 -	Users can filter and search for list by Teacher, Subject, Week, and Class that they want to find. 
--	Example: We will search list by teacher name categories 
+-	Example: We will search list by teacher name categories
+
 ![image](https://github.com/Trungtruc410/Student-Attendance-Management/assets/85205181/edbaaca4-0533-4bac-a4a6-6a6208b1c77c)
+
 c. Check attendance by choosing ID’s list: 
--	After teacher know all about the list then they can choose the list that they want to check student attendance by choosing the ID’s list and then click the “Next” button to process. 
+-	After teacher know all about the list then they can choose the list that they want to check student attendance by choosing the ID’s list and then click the “Next” button to process.
+  
 ![image](https://github.com/Trungtruc410/Student-Attendance-Management/assets/85205181/169e67f6-612e-44ff-98e3-9a30cfb0189a)
+
 5. Checking students: 
-- After choosing the list as teacher want, the student names of the class through this ID will be displayed in the Confirm Page. Teacher read attendance names of students in turn to take attendance by click into the check box and save information. 
+- After choosing the list as teacher want, the student names of the class through this ID will be displayed in the Confirm Page. Teacher read attendance names of students in turn to take attendance by click into the check box and save information.
+  
 ![image](https://github.com/Trungtruc410/Student-Attendance-Management/assets/85205181/ff47617c-19aa-4963-8fc9-50d5fbac2495)
+
 6. Teacher profile page 
-- After registering, teacher can click to the “Profile” button to go through the page then click to the “Show Profile '' to see their all their information and update it. 
+- After registering, teacher can click to the “Profile” button to go through the page then click to the “Show Profile '' to see their all their information and update it.
+  
 ![image](https://github.com/Trungtruc410/Student-Attendance-Management/assets/85205181/dc357b3a-2bb2-4e83-ac02-56dc87328068)
+
 ![image](https://github.com/Trungtruc410/Student-Attendance-Management/assets/85205181/5d994b77-4537-4649-89d4-700eb865b6b7)
+
 7. History Checking Function 
-- When teacher finish the checking step, they can see all the list that they transact via the “History checking” function. 
+- When teacher finish the checking step, they can see all the list that they transact via the “History checking” function.
+  
 ![image](https://github.com/Trungtruc410/Student-Attendance-Management/assets/85205181/ccff35ea-bf27-478b-8a28-6836582734b7)
-Administrator Function 
+
+
 a.	Home Page 
 ![image](https://github.com/Trungtruc410/Student-Attendance-Management/assets/85205181/3ed7c6a5-b433-423c-80a2-8302304f6d86)
+
 b.	Add new list 
-- Admin can add new lists to the system by filling in all information and then click the “Add new list” button. 
+- Admin can add new lists to the system by filling in all information and then click the “Add new list” button.
+  
  ![image](https://github.com/Trungtruc410/Student-Attendance-Management/assets/85205181/4c3842e2-fa28-42cf-8d3c-bc2ed2e83330)
+
 c. Edit the list 
--	Admin can update and delete list by searching the id of the list then the information of that list will be displayed by clicking the “Search” button. 
+-	Admin can update and delete list by searching the id of the list then the information of that list will be displayed by clicking the “Search” button.
+  
 ![image](https://github.com/Trungtruc410/Student-Attendance-Management/assets/85205181/552c1315-e987-4a51-bb51-c902d9d84484)
+
 d.	Show all list 
--	Admin can easily manage and watch all list through the “All List” function. 
+-	Admin can easily manage and watch all list through the “All List” function.
+  
  ![image](https://github.com/Trungtruc410/Student-Attendance-Management/assets/85205181/c84f295e-d8da-44fa-9cd8-6896f7acd454)
+ 
 e.	Show all teacher 
--	Admin can also know all about how many teachers they have in the system through the “All teacher” function. 
+-	Admin can also know all about how many teachers they have in the system through the “All teacher” function.
+  
 ![image](https://github.com/Trungtruc410/Student-Attendance-Management/assets/85205181/407e965f-f99d-442c-9bd6-366f9d485709)
 
 
