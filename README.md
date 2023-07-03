@@ -1,4 +1,4 @@
-# Stadium-Seat-Booking-System
+# Student-Attendance-Management
 
 ## Overview
 
